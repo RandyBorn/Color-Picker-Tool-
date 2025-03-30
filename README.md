@@ -1,12 +1,27 @@
-# React + Vite
+# Color Picker Tool
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Ein Color Picker-Tool, mit dem Benutzer Farben auswählen, anzeigen und in verschiedenen Formaten (HEX, RGB, HSL) anzeigen zu können. 
 
-Currently, two official plugins are available:
+# Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Wählen Sie eine Farbe aus der Farbpalette aus.
 
-## Expanding the ESLint configuration
+Anzeige von Farbwerten in HEX, RGB und HSL.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Möglichkeit, den Farbcode zu kopieren.
+
+Dynamische Farbänderung mit Live-Vorschau.
+
+# Technologien
+
+HTML: Struktur und Markup.
+
+# Tailwind: Styling und Design.
+
+JavaScript: Interaktive Funktionen und Farbauswahl.
+
+React.js: Projekt in React entwickelt
+
+
+
+
