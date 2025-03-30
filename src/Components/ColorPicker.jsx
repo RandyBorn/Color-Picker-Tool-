@@ -16,7 +16,13 @@ export default function ColorPicker() {
           type="color"
           value={color}
           onChange={handleChange}
-          style={{ cursor: "pointer", width: "300px", height: "200px" }}
+          style={{
+            cursor: "pointer",
+            width: "300px",
+            height: "200px",
+            border: "yellow 2px solid",
+            borderRadius: "20px",
+          }}
         />
         <div style={{ marginTop: "20px" }}>
           <p>
@@ -29,6 +35,8 @@ export default function ColorPicker() {
             height: "100px",
             backgroundColor: color,
             marginTop: "10px",
+            border: "yellow 2px solid",
+            borderRadius: "20px",
           }}
         />
       </div>
